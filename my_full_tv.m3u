@@ -1,0 +1,127 @@
+#EXTM3U
+
+############
+# MALAYSIA #
+############
+
+#EXTINF:-1 tvg-id="RTM-TV1" group-title="Malaysia",RTM TV1
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/playlist.m3u8?id=1
+#EXTINF:-1 tvg-id="RTM-TV2" group-title="Malaysia",RTM TV2
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/playlist.m3u8?id=2
+#EXTINF:-1 tvg-id="RTM-OKEY" group-title="Malaysia",TV Okey
+https://d25tgymtnqzu8s.cloudfront.net/smil:okey/playlist.m3u8?id=3
+#EXTINF:-1 tvg-id="RTM-BERITA" group-title="Malaysia",Berita RTM
+https://d25tgymtnqzu8s.cloudfront.net/smil:berita/playlist.m3u8?id=5
+#EXTINF:-1 tvg-id="RTM-SUKAN" group-title="Malaysia",Sukan RTM
+https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/playlist.m3u8?id=4
+
+#EXTINF:-1 tvg-id="TV3" group-title="Malaysia",TV3
+http://tv3liveios-i.akamaihd.net/hls/live/205900/ios/tv3live/master.m3u8
+#EXTINF:-1 tvg-id="NTV7" group-title="Malaysia",NTV7
+http://ntv7liveios-i.akamaihd.net/hls/live/205902/ios/ntv7live/master.m3u8
+#EXTINF:-1 tvg-id="8TV" group-title="Malaysia",8TV
+http://8tvliveios-i.akamaihd.net/hls/live/205901/ios/8tvlive/master.m3u8
+#EXTINF:-1 tvg-id="TV9" group-title="Malaysia",TV9
+http://tv9liveios-i.akamaihd.net/hls/live/205903/ios/tv9live/master.m3u8
+
+
+#############
+# INDONESIA #
+#############
+
+#EXTINF:-1 tvg-id="RCTI" group-title="Indonesia",RCTI
+https://vcdn-rcti.rctiplus.id/live/eds/rcti_fta/live_fta/rcti.m3u8
+#EXTINF:-1 tvg-id="MNCTV" group-title="Indonesia",MNCTV
+https://vcdn-mnctv.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv.m3u8
+#EXTINF:-1 tvg-id="GTV" group-title="Indonesia",GTV
+https://vcdn-gtv.rctiplus.id/live/eds/gtv_fta/live_fta/gtv.m3u8
+#EXTINF:-1 tvg-id="iNews" group-title="Indonesia",iNews
+https://vcdn-inews.rctiplus.id/live/eds/inews_fta/live_fta/inews.m3u8
+
+#EXTINF:-1 tvg-id="SCTV" group-title="Indonesia",SCTV
+https://live.cdn.vidio.com/live/204/live.m3u8
+#EXTINF:-1 tvg-id="Indosiar" group-title="Indonesia",Indosiar
+https://live.cdn.vidio.com/live/205/live.m3u8
+#EXTINF:-1 tvg-id="TransTV" group-title="Indonesia",Trans TV
+https://video.detik.com/trans7/smil:transtv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Trans7" group-title="Indonesia",Trans7
+https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ANTV" group-title="Indonesia",ANTV
+https://live.cdn.vidio.com/live/6441/live.m3u8
+#EXTINF:-1 tvg-id="MetroTV" group-title="Indonesia",Metro TV
+https://edge.metrotvnews.com/live-edge/smil:metro.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="KompasTV" group-title="Indonesia",Kompas TV
+https://edge.kompas.tv/live/kompastv.m3u8
+#EXTINF:-1 tvg-id="TVRI" group-title="Indonesia",TVRI Nasional
+https://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/index.m3u8
+
+
+#####################
+# INTERNATIONAL NEWS#
+#####################
+
+#EXTINF:-1 tvg-id="AlJazeera" group-title="News",Al Jazeera English
+https://live-hls-web-aje.getaj.net/AJE/02.m3u8
+#EXTINF:-1 tvg-id="DW" group-title="News",DW News
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+#EXTINF:-1 tvg-id="NHKWorld" group-title="News",NHK World Japan
+https://nhkwtvglobal-i.akamaihd.net/hls/live/263941/nhkwtvglobal/index.m3u8
+#EXTINF:-1 tvg-id="France24" group-title="News",France 24 English
+https://static.france24.com/live/F24_EN_LO_HLS/live_tv.m3u8
+#EXTINF:-1 tvg-id="BBCWorld" group-title="News",BBC World News
+https://news.bbc.co.uk/bbcworld.m3u8
+
+
+##########
+# MEKKAH #
+##########
+
+#EXTINF:-1 tvg-id="Makkah" group-title="Religious",Makkah Live
+https://makkahlive.net/hls/makkah.m3u8
+#EXTINF:-1 tvg-id="Madinah" group-title="Religious",Madinah Live
+https://makkahlive.net/hls/madinah.m3u8
+
+
+############
+# THAILAND #
+############
+
+#EXTINF:-1 tvg-id="ThaiPBS" group-title="Thailand",Thai PBS
+https://thaipbs-live.cdn.byteark.com/live/playlist.m3u8
+#EXTINF:-1 tvg-id="NBT" group-title="Thailand",NBT
+https://cdn6.goprimetime.info/feed/iptv/playlist.m3u8?id=nation
+#EXTINF:-1 tvg-id="CH3" group-title="Thailand",Channel 3
+https://cdn6.goprimetime.info/feed/iptv/playlist.m3u8?id=ch3hd
+#EXTINF:-1 tvg-id="CH7" group-title="Thailand",Channel 7
+https://cdn6.goprimetime.info/feed/iptv/playlist.m3u8?id=ch7hd
+
+
+#############
+# SPORTS FTA#
+#############
+
+#EXTINF:-1 tvg-id="RedBullTV" group-title="Sports",Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:-1 tvg-id="SportTV" group-title="Sports",Sport TV Global
+https://glxlmn026c.singularcdn.net.br/playout_03/playlist.m3u8
+#EXTINF:-1 tvg-id="EdgeSports" group-title="Sports",Edge Sports
+https://edgesports-sportstribal.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="FIFA+" group-title="Sports",FIFA+ TV
+https://fifa-fifa-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+
+##########################
+# MUSIC & ENTERTAINMENT  #
+##########################
+
+#EXTINF:-1 tvg-id="MTVLive" group-title="Music",MTV Live
+https://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
+#EXTINF:-1 tvg-id="TraceUrban" group-title="Music",Trace Urban
+https://traceurban.akamaized.net/hls/live/2002460/traceurban/master.m3u8
+#EXTINF:-1 tvg-id="TraceTropical" group-title="Music",Trace Tropical
+https://tracetropical.akamaized.net/hls/live/2002461/tracetropical/master.m3u8
+#EXTINF:-1 tvg-id="FashionTV" group-title="Entertainment",FashionTV
+https://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="QelloConcerts" group-title="Music",Stingray Qello Concerts
+https://stirr.ott-channels.stingray.com/stirr/stingray-qello/master.m3u8
